@@ -1,7 +1,10 @@
 
 Title: PyBulkMailer - A Comprehensive Python Script for High-Volume Email Marketing
 Telegram = @Thekunaldahiya
+
 https://msng.link/o?@Thekunaldahiya=tg
+
+
 Introduction:
 PyBulkMailer is a powerful Python script designed to facilitate bulk email sending for marketing purposes. It incorporates advanced features such as SMTP rotation, proxy rotation, unique PDF attachments, subject rotation, and content rotation to ensure maximum inbox delivery and engagement. With a focus on inboxing, PyBulkMailer empowers users to efficiently manage large-scale email campaigns while maintaining high deliverability rates.
 
